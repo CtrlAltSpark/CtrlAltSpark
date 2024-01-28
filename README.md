@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CtrlAltSpark
+- 👋 Hi, I’m Emily @CtrlAltSpark
 - 👀 I’m interested in anything in Tech (everything)
 - 🌱 I’m currently learning Python, Machine Learning and Unreal
 - 😄 Pronouns: She / Her
