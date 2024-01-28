@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emily @CtrlAltSpark
-- 👀 I’m interested in anything in Tech (everything)
-- 🌱 I’m currently learning Python, Machine Learning and Unreal
+- 👀 I’m interested in AI, Sofware Development, NeRF (Neural Radiance Fields) and Photogrammetry
+- 🌱 I’m currently learning Python, Machine Learning and Unreal Engine 5
 - 😄 Pronouns: She / Her
 
 <!---
